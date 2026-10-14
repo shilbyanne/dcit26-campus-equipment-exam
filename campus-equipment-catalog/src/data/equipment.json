@@ -1,0 +1,29 @@
+[
+  {
+    "id": "EQ-101",
+    "name": "Portable Projector",
+    "category": "Presentation",
+    "location": "Media Room",
+    "condition": "Good",
+    "notes": "HDMI cable and remote are included.",
+    "available": true
+  },
+  {
+    "id": "EQ-102",
+    "name": "Field Audio Recorder",
+    "category": "Audio",
+    "location": "Equipment Desk",
+    "condition": "Excellent",
+    "notes": "Includes microphone and carrying case.",
+    "available": true
+  },
+  {
+    "id": "EQ-103",
+    "name": "Mirrorless Camera Kit",
+    "category": "Photography",
+    "location": "Studio Cabinet 2",
+    "condition": "Good",
+    "notes": "Includes one lens and two batteries.",
+    "available": false
+  }
+]
